@@ -1,5 +1,5 @@
 # OIBSIP_DATASCIENCE_taskno.2
-#UNEMPLOYMENT_ANALYSIS_WITH_PYTHON
+##UNEMPLOYMENT_ANALYSIS_WITH_PYTHON
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
@@ -13,7 +13,7 @@
 ![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-success)
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-#DESCRIPTION
+##DESCRIPTION
 This project analyzes unemployment trends using Python and time series analysis techniques. The dataset includes unemployment rate, labour participation rate, and employment statistics across different regions during the COVID-19 period. The project focuses on data cleaning, preprocessing, visualization, and extracting insights about the impact of COVID-19 on unemployment trends using Pandas, Matplotlib, and Seaborn.
 
 ## Objectives
