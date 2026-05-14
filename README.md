@@ -31,3 +31,12 @@ This project analyzes unemployment trends using Python and time series analysis 
 * VS Code → Development environment
 * Time Series Analysis → Trend and COVID impact analysis
 * CSV Datasets → Unemployment data handling
+## How to Use
+
+1. Download or clone this repository  
+2. Install required libraries:
+   ```bash
+   pip install pandas matplotlib seaborn
+Open the project in VS Code or Jupyter Notebook
+Run the Python file or notebook cells
+Explore the visualizations and unemployment trends
