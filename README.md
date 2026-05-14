@@ -1,6 +1,5 @@
 # OIBSIP_DATASCIENCE_taskno.2
-#Unemployment_Analysis_with_Python
-
+#UNEMPLOYMENT_ANALYSIS_WITH_PYTHON
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
